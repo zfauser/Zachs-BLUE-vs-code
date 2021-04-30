@@ -1,0 +1,29 @@
+{
+	"name": "Zachs-BLUE-Visual-Studio-Code-Theme",
+	"displayName": "zachs-blue-vsct",
+	"description": "do you like blue? then this extention is for you",
+	"version": "1.0.0",
+	"publisher": "ZachFauser",
+	"icon": "icon.png",
+	"engines": {
+		"vscode": "^1.55.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "BLUE",
+				"uiTheme": "vs-dark",
+				"path": "./themes/BLUE-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "c84deb5c-1652-43fe-96c5-b6f224f042bf",
+		"publisherId": "91f8257a-9c93-422b-a3bd-6be0f4882c70",
+		"publisherDisplayName": "Zach Fauser",
+		"installedTimestamp": 1619748591522
+	}
+}
