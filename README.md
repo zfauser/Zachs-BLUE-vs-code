@@ -1,1 +1,3 @@
-Zach's BLUE Theme for VSCODE!
+ZachFauser: BLUE Theme
+-
+Just a BLUE theme for VS CODE
