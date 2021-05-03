@@ -18,3 +18,5 @@ To report a security issue start you issue with:
 [!! Security] - This is for critical security flaws 
 -
 [!!! Security] - This is for extremely critical security flaws
+-
+
