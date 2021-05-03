@@ -1,3 +1,5 @@
 ZachFauser: BLUE Theme
 -
-Just a BLUE theme for VS CODE
+yet another BLUE vs code theme
+-
+yabvsct
