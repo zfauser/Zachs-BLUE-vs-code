@@ -1,3 +1,5 @@
+
+![alt text](https://github.com/Zfauser/Zachs-BLUE-vs-code/raw/main/icon.png)
 ZachFauser: BLUE Theme
 -
 Get the theme! 
