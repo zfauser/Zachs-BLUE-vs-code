@@ -1,5 +1,7 @@
 ZachFauser: BLUE Theme
 -
-Get the theme! https://marketplace.visualstudio.com/items?itemName=ZachFauser.ZachsBlueTheme&ssr=false#qna
+Get the theme! 
 -
-yabvsct
+https://marketplace.visualstudio.com/items?itemName=ZachFauser.ZachsBlueTheme&ssr=false#overview
+-
+
