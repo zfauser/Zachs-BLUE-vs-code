@@ -1,5 +1,5 @@
 ZachFauser: BLUE Theme
 -
-yet another BLUE vs code theme
+Get the theme! https://marketplace.visualstudio.com/items?itemName=ZachFauser.ZachsBlueTheme&ssr=false#qna
 -
 yabvsct
