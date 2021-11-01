@@ -4,6 +4,9 @@ ZachFauser: BLUE Theme
 -
 Get the theme! 
 https://marketplace.visualstudio.com/items?itemName=ZachFauser.ZachsBlueTheme&ssr=false#overview
+Really Love the theme? Get the Web Browser Verison!
+Chromium Based (Chrome, Edge, Brave, etc.): https://chrome.google.com/webstore/detail/zachs-blue-theme/pcplghnciphcadekjldjbchlllfmdmil?hl=en
+Firefox: https://addons.mozilla.org/en-CA/firefox/addon/zachs-blue-theme/
 -
 ![alt text](https://github.com/Zfauser/Zachs-BLUE-vs-code/raw/main/icon.png)
 
