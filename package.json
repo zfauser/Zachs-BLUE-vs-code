@@ -24,6 +24,9 @@
         "type": "git",
         "url": "https://github.com/Zfauser/Zachs-BLUE-vs-code.git"
       },
+	"website": {
+		"url": "https://zfauser.github.io/zachs-blue-theme/"
+	},
 	"__metadata": {
 		"id": "7e95d2d4-0a79-411d-a442-dc88677e6bcf",
 		"publisherId": "91f8257a-9c93-422b-a3bd-6be0f4882c70",
