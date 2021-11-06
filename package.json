@@ -1,8 +1,8 @@
 {
-	"name": "ZachsBlueTheme",
+	"name": "zachs-blue-theme",
 	"displayName": "Zach's Blue Theme",
 	"description": "do you like blue? then this theme is for you",
-	"version": "7.0.0",
+	"version": "7.0.1",
 	"publisher": "ZachFauser",
 	"icon": "icon.png",
 	"engines": {
